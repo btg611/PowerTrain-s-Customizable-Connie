@@ -570,11 +570,11 @@ of the locomotive class and the name of the train it is pulling. These will show
 Big thanks to: 
 
 Anyone999991 for the Reverser, Throttle, and Bell E2s
-Big E for the firebox door E2, wheelbase and valve gear E2s
+Big E for the firebox door E2, wheelbase, valve gear and brake stand E2s
 CSXRailfan02 for his whistle and dynamo E2s
 Ms. Lily for the Harriman Consolidation and tender models
 PRRRailfan  for helping me make the RSG FBD
-ToasterBruh for the RSC Community Edit to power the engine as well as the Brakestand
+ToasterBruh for the RSC Community Edit to power the engine
 Union for the safety valve E2
 All my friends for making awesome stuff that inpired me to nake this!
 
