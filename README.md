@@ -38,13 +38,21 @@ Table of contents
 --------------------------------------------------------
 
 I - Quick start guide
+
 II - Fireman's Guide
+
 III - Engineer's Guide
+
 IV - Customization 
+
 V - Troubleshooting
+
 VI - Tips and Tricks
+
 VII - What's Next?
+
 VIII - Notes
+
 IX - Credits    
 
 --------------------------------------------------------
